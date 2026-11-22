@@ -9,13 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://huggingface.co/YOUR_HF"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Erwinpro23&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
-</p>
-
 ---
 
 ## 🧠 About Me
